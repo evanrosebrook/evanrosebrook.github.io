@@ -127,29 +127,7 @@ module.exports = function( grunt ) {
 
     scriptSrc.push('<%= project.src.js %>/module.prefix');
 
-    scriptSrc.push('<%= project.src.js %>/github.js');
-
-    // only put scripts that will be used
-
-    if ( jekyllConfig.share.twitter ) {
-      scriptSrc.push('<%= project.src.js %>/twitter.js');
-    }
-
-    if ( jekyllConfig.share.facebook ) {
-      scriptSrc.push('<%= project.src.js %>/facebook.js');
-    }
-
-    if ( jekyllConfig.share.disqus ) {
-      scriptSrc.push('<%= project.src.js %>/disqus.js');
-    }
-
     scriptSrc.push('<%= project.src.js %>/module.suffix');
-
-    // explicitly put the linkedIn code out of the immediate function to work
-    if ( jekyllConfig.share.linkedin ) {
-      scriptSrc.push('<%= project.src.js %>/linkedin.js');
-    }
-
     // set source
     concat.js.src = scriptSrc;
 
