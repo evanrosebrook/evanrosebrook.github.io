@@ -1,0 +1,16 @@
+author:
+  name: Evan Rosebrook
+  description:
+  picture: /assets/images/avatar.jpg
+  favicon: /assets/images/favicon.jpg
+description: Home page of Evan Rosebrook
+url: http://evanrosebrook.com
+title: Evan Rosebrook
+version: 1.0.0
+github_username: evanrosebrook
+google_analytics_id: UA-58186085-1
+markdown: kramdown
+highlighter: rouge
+exclude: [ 'README.md', 'src/', 'node_modules', 'package.json', 'Gruntfile.js' ]
+excerpt_separator: <!--excerpt_separator-->
+gems: [jekyll-paginate]

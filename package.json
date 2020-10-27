@@ -1,0 +1,29 @@
+{
+  "name": "evanrosebrook",
+  "description": "Source code for Evan Rosebrook website",
+  "author": "Evan Rosebrook",
+  "version": "0.1.1",
+  "copyright": "2020",
+  "url": "http://evanrosebrook.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanrosebrook/evanrosebrook.github.io"
+  },
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanrosebrook/evanrosebrook.github.io/issues"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "grunt": "1.0.4",
+    "grunt-contrib-clean": "2.0.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-jshint": "2.1.0",
+    "grunt-contrib-less": "2.0.0",
+    "grunt-contrib-uglify": "4.0.1",
+    "grunt-contrib-watch": "1.1.0"
+  }
+}

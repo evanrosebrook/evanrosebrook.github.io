@@ -1,0 +1,30 @@
+<header id="site-header">
+
+  <div id="avatar-container">
+    <a href="/">
+      <img id="author-picture" src="{{ site.author.picture }}" class="img-rounded"/>
+    </a>
+    <p id="author-name">{{ site.author.name }}</p>
+    <p id="author-intro" class="visible-md-block visible-lg-block">{{ site.author.description }}</p>
+    <nav>
+      <!-- responsive menu -->
+      <ul id="nav" class="list-inline hidden-md hidden-lg">
+        <li><a href="/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
+        <li><a href="/resume" class="{% if page.url == '/' %}current{% endif %}">Resume</a></li>
+        <li><a href="/contact" class="{% if page.url == '/contact/' %}current{% endif %}">Contact</a></li>
+      </ul>
+    </nav>
+
+  </div>
+
+  <div id="nav-container" class="visible-md-block visible-lg-block">
+    <nav>
+      <ul class="list-unstyled">
+        <li><a href="/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
+        <li><a href="/resume" class="{% if page.url == '/resume/' %}current{% endif %}">Resume</a></li>
+        <li><a href="/contact" class="{% if page.url == '/contact/' %}current{% endif %}">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+
+</header>
