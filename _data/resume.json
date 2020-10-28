@@ -1,0 +1,199 @@
+{
+    "basics": {
+      "name": "Evan Rosebrook",
+      "label": "Senior Software Engineer",
+      "summary": "Experienced software engineer that has successfully led multiple software projects through the entire software development lifecycle from inception, to product release and beyond. Proficient at implementing solutions in numerous technical areas from building data pipelines, to back-end services, front-end UI and DevOps. Provides leadership, training and feedback to ensure that teams perform to the best of their abilities and deliver consistently.",
+      "website": "evanrosebrook.com",
+      "email": "evan.rosebrook@gmail.com",
+      "location": {
+        "city": "Seattle",
+        "countryCode": "US"
+      },
+      "profiles": [
+        {
+          "url": "https://github.com/evanrosebrook",
+          "username": "evanrosebrook",
+          "network": "github"
+        }
+      ]
+    },
+    "education": [
+      {
+        "area": "Digital Technology and Culture",
+        "studyType": "Bachelors",
+        "institution": "Washington State University",
+        "endDate": "2006-12-01"
+      }
+    ],
+    "skills": [
+      {
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "JQuery",
+          "React"
+        ],
+        "level": "Senior",
+        "name": "Front-End"
+      },
+      {
+        "keywords": [
+          "Scala",
+          "Python",
+          "C#",
+          "Java",
+          "SQL"
+        ],
+        "level": "Senior",
+        "name": "Back-End"
+      },
+      {
+        "keywords": [
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Docker",
+            "Helm",
+            "Terraform",
+            "Jenkins"
+        ],
+        "level": "Senior",
+        "name": "Devops"
+      },
+      {
+        "keywords": [
+            "SQL",
+            "Flink",
+            "Spark",
+            "Storm",
+            "Hive",
+            "Hadoop",
+            "Oozie",
+            "Airflow"
+        ],
+        "level": "Senior",
+        "name": "Data"
+      }
+    ],
+    "work": [
+      {
+        "summary": "Working as a software engineer on the Ad Engineering team building out various back-end software and features. Development stack includes Scala, Java, Akka, Ruby, Hadoop, Mapreduce, Oozie, Spark, Storm, Kafka, Redshift, React, Airflow, Hive, Kubernetes, Snowflake.",
+        "website": "https://expedia.com",
+        "company": "Expedia - Ads Engineering",
+        "position": "Senior Software Engineer",
+        "startDate": "2014-11-01",
+        "highlights": [
+          "Used Scala, Akka and Teradata to deliver data relating to ad performance on the dfp platform",
+          "Designed and developed ingestion tools for Hadoop and Hive",
+          "Automated software deployment using Jenkins",
+          "Developed reporting solution using Scalding and Oozie running on Hadoop to deliver conversion reports with emphasis on low latency",
+          "Designed and Implemented Spark Streaming solution to perform analytics on customer behavior",
+          "Architected and lead implementation of B2B audience segmentation solution using Storm/Kafka"
+        ]
+      },
+      {
+        "summary": "Worked as a Software Enginer developing new features for call center applications using .Net MVC and supporting technologies.",
+        "website": "https://expedia.com",
+        "company": "Expedia - Call Center",
+        "position": "Software Engineer",
+        "startDate": "2012-11-01",
+        "endDate": "2014-11-01",
+        "highlights": [
+          "Create new api for integration with applications outside of GCO umbrella",
+          "Worked as part of a small team building out new line of business for call center applications",
+          "Used profiling tools to identify and optimize application performance",
+          "Collaborated with architects to create standardized development practices"
+        ]
+      },
+      {
+        "summary": "Led a team of engineers on multiple projects. Core technologies included Windows Azure, SQL Azure, ASP.NET MVC 3, Razor, JQuery, Windows 8 Metro( XAML), Kinect For Windows SDK.",
+        "website": "",
+        "company": "Tag Creative Studio",
+        "position": "Lead Software Engineer",
+        "startDate": "2011-03-01",
+        "endDate": "2012-10-01",
+        "highlights": [
+          "Created a new MVC based architecture for iegallery.com",
+          "Leveraged Windows Azure technologies for scalability",
+          "Responsible for task identification and assignment",
+          "Custom hand gesture detection based one Windows Kinect SDK",
+          "Created Windows 8 Metro App (XAML)"
+        ]
+      },
+      {
+        "summary": "Worked as a Web Developer on the Veer contributor team. Used .Net 3.5 and JQuery enhance the UI and services",
+        "website": "http://corbis.com",
+        "company": "Corbis",
+        "position": "Software Engineer",
+        "startDate": "2010-07-01",
+        "endDate": "2011-03-01",
+        "highlights": [
+          "Used JQuery and current javascript patterns to enhance site",
+          "Worked in SOA environment using WCF, etc."
+        ]
+      },
+      {
+        "summary": "Worked as a Web Developer on the Windows Core Operations team. Used .Net 3.5, LINQ, WCF and JQuery to bring the Windows Core Operations ticketing system up to date with current technology and UI patterns.",
+        "website": "https://microsoft.com",
+        "company": "Microsoft",
+        "position": "Software Engineer",
+        "startDate": "2009-07-01",
+        "endDate": "2010-09-01",
+        "highlights": [
+          "Upgraded existing web app to JQuery driven Ajax site",
+          "Implemented faster/pageable search grid",
+          "Used AJAX modals to implement seamless bulk edit",
+          "Widgetized existing UI with custom JSON driven Widgets",
+          "Migrated from cookie driven persistence to cloud compatible profiles"
+        ]
+      },
+      {
+        "summary": "Worked as a Web Developer building out various new software solutions in a Test Driven Development. Worked as lead engineer on new Data Extract project. Worked as lead engineer building out new guide creation and Delivery software. Utilized .NET 3.5, ASP.NET, AJAX, C#, SQL, LINQ, XSLT, ASP, WCF. Participated in an Agile Development Environment.",
+        "website": "https://www.onvia.com/",
+        "company": "Onvia",
+        "position": "Software Engineer",
+        "startDate": "2008-04-01",
+        "endDate": "2008-12-01",
+        "highlights": [
+          "Built new C# Application to Output Excel Data based on user subscriptions",
+          "Worked in Front, Middle and Back-End programming roles",
+          "Designed Database schema for new DB",
+          "Used TFS for source control and project tracking",
+          "Unit Testing to ensure software quality",
+          "Worked in SOA environment using WCF, etc"
+        ]
+      },
+      {
+        "summary": "Worked as an Engineer customizing Digital Asset Management (DAM) systems. Worked as a Lead Engineer on DAM systems for Russell and Lehman Brothers. Utilized ASP.NET, C#, T-SQL, HTML, JavaScript, and AJAX in DAM systems.",
+        "website": "https://corbis.com",
+        "company": "Corbis",
+        "position": "Software Engineer",
+        "startDate": "2007-03-01",
+        "endDate": "2008-04-01",
+        "highlights": [
+          "Customized DAM functionality using C# and SQL",
+          "Worked in Front, Middle and Back-End programming Roles",
+          "Implemented AJAX techniques",
+          "Worked closely with Managers and Clients to implement DAM solutions"
+        ]
+      },
+      {
+        "summary": "Develop and deploy high end e-commerce web sites. Worked on sites for RiverSource, Alltel, Home Depot, Toyota Racing, etc. Employed ASP, ASP.NET, C#, XML, T-SQL in the production of websites. Websites adhered to standards are dynamic and offer a safe secure e-commerce experience. ",
+        "website": "https://www.bdainc.com/",
+        "company": "Bensussen Deutsch & Associates",
+        "position": "Software Engineer",
+        "startDate": "2006-07-01",
+        "endDate": "2007-01-01",
+        "highlights": [
+          "Worked as a web programmer employing variety of languages and techniques",
+          "Used T-SQL and stored procedures for reliable results",
+          "Performed server administration for E-commerce and reporting websites",
+          "Worked in Front, Middle, and Back-End programming Roles"
+        ]
+      }
+    ],
+    "meta": {
+      "theme": "elegant"
+    }
+  }
