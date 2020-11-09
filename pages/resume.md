@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 {% assign basics = site.data.resume.basics %}
-<a class="btn btn-default" href="/assets/docs/Evan_Rosebrook-Resume.docx">Download DOCX</a> <a class="btn btn-default" href="/assets/docs/Evan_Rosebrook-Resume.docx">Download PDF</a> 
+<a class="btn btn-default" href="/assets/docs/Evan_Rosebrook-Resume.docx">Download DOCX</a> <a class="btn btn-default" href="/assets/docs/Evan_Rosebrook-Resume.pdf">Download PDF</a> 
 
 ## {{ basics.name }}  
 [{{ basics.website }}](https://{{ basics.website }})  
