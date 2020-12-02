@@ -78,18 +78,19 @@
     ],
     "work": [
       {
-        "summary": "Working as a software engineer on the Ad Engineering team building out various back-end software and features. Development stack includes Scala, Java, Akka, Ruby, Hadoop, Mapreduce, Oozie, Spark, Storm, Kafka, Redshift, React, Airflow, Hive, Kubernetes, Snowflake.",
+        "summary": "Worked as an engineer leading the design and development of multiple software projects which maximize profits and optimize the customer experience.",
         "website": "https://expedia.com",
         "company": "Expedia - Ads Engineering",
         "position": "Senior Software Engineer",
         "startDate": "2014-11-01",
         "highlights": [
-          "Used Scala, Akka and Teradata to deliver data relating to ad performance on the dfp platform",
-          "Designed and developed ingestion tools for Hadoop and Hive",
-          "Automated software deployment using Jenkins",
-          "Developed reporting solution using Scalding and Oozie running on Hadoop to deliver conversion reports with emphasis on low latency",
+          "Designed and lead the development of a new streaming platform built on Flink and Kubernetes",
+          "Architected new data platform leveraging Airflow, Hive, Snowflake and Postgres",
           "Designed and Implemented Spark Streaming solution to perform analytics on customer behavior",
-          "Architected and lead implementation of B2B audience segmentation solution using Storm/Kafka"
+          "Architected and lead implementation of B2B audience segmentation solution using Storm/Kafka",
+          "Embraced and evangelized Agile development based on Scrum",
+          "Developed sophisticated scalable ingestion platform using Scala/Akka",
+          "Mentor, train and provide feedback to junior engineers"
         ]
       },
       {
